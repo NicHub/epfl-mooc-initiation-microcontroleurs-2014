@@ -8,16 +8,32 @@
 
 # TABLE DES MATIÈRES
 
+Cette table des matières est la version “étudiant” de la page <https://class.coursera.org/microcontroleurs-004/wiki/Complements>.
 
-## Matériel conseillé
+
+## Cartes microcontrôleurs
 
 Les cartes utilisées pour ce cours sont :
 
-- La carte *Diduino* qui est une version modifiée par [Didel](http://www.didel.com/) de la carte Arduino Duemilanove.
-- La carte *Launchpad MSP430G2553* de Texas Instruments.
+- La carte *Diduino* qui est une version modifiée par [Didel](http://www.didel.com/) de la carte *Arduino Duemilanove*.
+- La carte *Launchpad MSP430G2553* de *Texas Instruments*.
 
+Ces cartes sont décrites dans ce document :
 
 - <http://www.didel.com/coursera/MatMOOC.pdf>
+
+
+## Shield *LearnCbot*
+
+En plus des cartes ci-dessus, il est conseillé d’acquérir un shield *LearnCbot*
+
+- <http://www.didel.com/lc/LearnCbot.pdf>
+- <http://www.didel.com/lc/LearnCMat.pdf>
+- <http://www.didel.com/lc/LearnCbotSpec.pdf>
+- <http://www.pyr.ch/lc/LearnCbotMsp430.pdf>
+
+
+## Achat
 
 Le matériel peut être acheté chez
 
@@ -25,19 +41,55 @@ Le matériel peut être acheté chez
 - [Arobose](https://www.arobose.fr/)
 - [Boxtec](http://shop.boxtec.ch/diduino-board-p-41267.html)
 
-Pour les questions concernant le Diduino :
+Pour les questions concernant le Diduino : <mailto:info@didel.com>
 
-<mailto:info@didel.com>
+Pour les questions concernant le Launchpad : <mailto:pyr@pyr.ch>
 
-Pour les questions concernant le Launchpad :
-
-<mailto:pyr@pyr.ch>
+Monsieur Pierre-Yves Rochat est très actif en Afrique : <mailto:pyr@pyr.ch>. Pensez à le contacter si vous avez des questions.
 
 
 
-## LearnCbot
-- <http://www.didel.com/lc/LearnCbot.pdf>
-- <http://www.didel.com/lc/LearnCMat.pdf>
-- <http://www.didel.com/lc/LearnCbotSpec.pdf>
-- <http://www.pyr.ch/lc/LearnCbotMsp430.pdf>
+
+
+# SEMAINE 1
+
+- [Diduino](http://didel.com/coursera/LC1.pdf)
+- [Launchpad](http://pyr.ch/coursera/LC1-msp.pdf)
+
+## Électronique
+
+- <http://www.didel.com/NotionsElec.pdf>
+- <http://www.bricobot.ch/docs/BasesElectronique.pdf>
+- <http://www.didel.com/Elec1.pdf>
+- <http://www.didel.com/Elec2.pdf>
+- <http://www.didel.com/diduino/Composants01.pdf>
+- <http://www.didel.com/profsTM/SourcesEnergie.pdf>
+- <http://fr.openclassrooms.com/sciences/cours/l-electronique-de-zero>
+
+## Systèmes combinatoires
+
+- <http://www.pyr.ch/SystemesLogiquesWH.pdf>
+- <http://www.pyr.ch/logisim_goes_fpga_2_9_12.jar>
+
+## Systèmes séquentiels
+
+- <http://www.pyr.ch/coursera/SystSeqDoc.pdf>
+
+
+
+
+# SEMAINE 2
+
+- [Diduino](http://didel.com/coursera/LC2.pdf)
+- [Launchpad](http://pyr.ch/coursera/LC2-msp.pdf)
+
+
+
+
+
+# SEMAINE 3
+
+- [Diduino](http://didel.com/coursera/LC2.pdf)
+- [Launchpad](http://pyr.ch/coursera/LC2-msp.pdf)
+
 
