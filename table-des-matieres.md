@@ -8,7 +8,7 @@
 
 # TABLE DES MATIÈRES
 
-Cette table des matières est la version “étudiant” de la page <https://class.coursera.org/microcontroleurs-004/wiki/Complements>.
+Cette table des matières est la version “étudiant” de la page <https://class.coursera.org/microcontroleurs-004/wiki/Complements>. Elle synthétise les informations de la page officielle, mais ne la remplace évidemment pas.
 
 
 ## Cartes microcontrôleurs
@@ -28,7 +28,7 @@ Ces cartes sont décrites dans ce document :
 En plus des cartes ci-dessus, il est conseillé d’acquérir un shield *LearnCbot*
 
 - <http://www.didel.com/lc/LearnCbot.pdf>
-- <http://www.didel.com/lc/LearnCMat.pdf>
+- <http://www.didel.com/lc/LearnCmat.pdf>
 - <http://www.didel.com/lc/LearnCbotSpec.pdf>
 - <http://www.pyr.ch/lc/LearnCbotMsp430.pdf>
 
@@ -38,7 +38,7 @@ En plus des cartes ci-dessus, il est conseillé d’acquérir un shield *LearnCb
 Le matériel peut être acheté chez
 
 - [Didel](http://www.didel.com/)
-- [Arobose](https://www.arobose.fr/)
+- [Arobose](http://www.arobose.com/shop/)
 - [Boxtec](http://shop.boxtec.ch/diduino-board-p-41267.html)
 
 Pour les questions concernant le Diduino : <mailto:info@didel.com>
@@ -80,16 +80,37 @@ Monsieur Pierre-Yves Rochat est très actif en Afrique : <mailto:pyr@pyr.ch>. P
 
 # SEMAINE 2
 
-- [Diduino](http://didel.com/coursera/LC2.pdf)
-- [Launchpad](http://pyr.ch/coursera/LC2-msp.pdf)
+- [Cours Diduino (PDF)](http://didel.com/coursera/LC2.pdf)
+- [*Programmes Diduino (ZIP)*](http://www.didel.com/coursera/LC2ino.zip)
+- [Cours Launchpad (PDF)](http://pyr.ch/coursera/LC2-msp.pdf)
+- [*Programmes Launchpad (ZIP)*](http://pyr.ch/coursera/LC2msp.zip)
 
 
+## Terminal
+
+- <http://www.didel.com/C/Terminal.pdf>
 
 
 
 # SEMAINE 3
 
-- [Diduino](http://didel.com/coursera/LC2.pdf)
-- [Launchpad](http://pyr.ch/coursera/LC2-msp.pdf)
+- [Cours Diduino (PDF)](http://didel.com/coursera/LC3.pdf)
+- [*Programmes Diduino (ZIP)*](http://www.didel.com/coursera/LC3ino.zip)
+- [Cours Launchpad (PDF)](http://pyr.ch/coursera/LC3-msp.pdf)
+- [*Programmes Launchpad (ZIP)*](http://pyr.ch/coursera/LC3msp.zip)
 
+
+
+
+# SEMAINE 4
+
+- [Cours Diduino (PDF)](http://didel.com/coursera/LC4.pdf)
+- [*Programmes Diduino (ZIP)*](http://www.didel.com/coursera/LC4ino.zip)
+- [Cours Launchpad (PDF)](http://pyr.ch/coursera/LC4-msp.pdf)
+- [*Programmes Launchpad (ZIP)*](http://pyr.ch/coursera/LC4msp.zip)
+
+
+## Librairies
+
+- <http://www.didel.com/coursera/FichiersInclus.pdf>
 
