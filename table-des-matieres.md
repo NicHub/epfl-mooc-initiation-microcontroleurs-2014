@@ -11,13 +11,19 @@
 
 ## Matériel conseillé
 
+Les cartes utilisées pour ce cours sont :
+
+- La carte *Diduino* qui est une version modifiée par [Didel](http://www.didel.com/) de la carte Arduino Duemilanove.
+- La carte *Launchpad MSP430G2553* de Texas Instruments.
+
+
 - <http://www.didel.com/coursera/MatMOOC.pdf>
 
 Le matériel peut être acheté chez
 
 - [Didel](http://www.didel.com/)
 - [Arobose](https://www.arobose.fr/)
-- [Boxtec](https://shop.boxtec.ch)
+- [Boxtec](http://shop.boxtec.ch/diduino-board-p-41267.html)
 
 Pour les questions concernant le Diduino :
 
