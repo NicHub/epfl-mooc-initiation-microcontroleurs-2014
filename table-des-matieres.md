@@ -115,7 +115,21 @@ Monsieur Pierre-Yves Rochat est très actif en Afrique : <mailto:pyr@pyr.ch>. P
 - <http://www.didel.com/coursera/FichiersInclus.pdf>
 
 
+
+# SEMAINE 5
+
+- [Cours Diduino (PDF)](http://didel.com/coursera/LC5.pdf)
+- [*Programmes Diduino (ZIP)*](http://www.didel.com/coursera/LC5ino.zip)
+- [Cours Launchpad (PDF)](http://pyr.ch/coursera/LC5-msp.pdf)
+- [*Programmes Launchpad (ZIP)*](http://pyr.ch/coursera/LC5msp.zip)
+
+
+
 # LIENS D’INTÉRÊT
 
+<<<<<<< Updated upstream
 - [AUTOMATIC REMOTE CORRECTING SYSTEM FOR MOOCS, Pierre-Yves Rochat, EPFL, in *Proceedings of the 6<sup>th</sup> European Embedded Design in Education and Research, 2014*](http://infoscience.epfl.ch/record/203257/files/arcsfm_14.pdf)
 
+=======
+-
+>>>>>>> Stashed changes
