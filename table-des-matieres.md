@@ -51,6 +51,7 @@ Monsieur Pierre-Yves Rochat est très actif en Afrique : <mailto:pyr@pyr.ch>. P
 
 
 
+
 # SEMAINE 1
 
 - [Diduino](http://didel.com/coursera/LC1.pdf)
