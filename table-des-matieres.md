@@ -135,6 +135,15 @@ Monsieur Pierre-Yves Rochat est très actif en Afrique : <mailto:pyr@pyr.ch>. P
 
 
 
+# SEMAINE 7
+
+- [Cours Diduino (PDF)](http://didel.com/coursera/LC7.pdf)
+- [*Programmes Diduino (ZIP)*](http://www.didel.com/coursera/LC7ino.zip)
+- [Cours Launchpad (PDF)](http://pyr.ch/coursera/LC7-msp.pdf)
+- [*Programmes Launchpad (ZIP)*](http://pyr.ch/coursera/LC7msp.zip)
+
+
+
 # LIENS D’INTÉRÊT
 
 
