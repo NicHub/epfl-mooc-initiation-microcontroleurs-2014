@@ -9,9 +9,9 @@
 # If protection is deactivated : `nvram: Error getting variable - 'boot-args': (iokit/common) data was not found A`
 # If protection is activated : `boot-args	kext-dev-mode=1`
 
-# Activate protection
+# Activate protection. Mac needs reboot.
 	nvram -d boot-args
 
-# Deactivate protection
+# Deactivate protection. Mac needs reboot.
 	nvram boot-args=kext-dev-mode=1
 
